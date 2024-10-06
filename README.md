@@ -61,7 +61,7 @@ The potential models that would possibly work the best to eliminate false positi
 **2. RNN with LSTM Units -** Correlate the vulnerabilities generated(as opposed to treating them as independent events) , to detect a pattern. This could be achieved using an LSTM model.
 
 
-### Framewroks Technologies use:
+### Frameworks Technologies used:
 We will also be able to test the open-source fuzzers once we have data, so while the following seem promising, we will not be able to confirm unless we test it on actual code.
 
 * **w3af -** Open-source web application security scanner
