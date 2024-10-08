@@ -43,8 +43,8 @@ from collections import Counter
 
 print("Loading files..")
 file_load_start = time.time()
-training_set = pd.read_csv('/media/hduser/OS_Install/Mechanical Engineering/Sem V/Data Analytics/Project/FinalTrain.csv', header = 0, delimiter = "\t", quoting = 3)
-testing_set = pd.read_csv('/media/hduser/OS_Install/Mechanical Engineering/Sem V/Data Analytics/Project/FinalTest.csv', header = 0, delimiter = "\t", quoting = 3)
+training_set = pd.read_csv('../FinalTrain.csv', header = 0, delimiter = "\t", quoting = 3)
+testing_set = pd.read_csv('../Project/FinalTest.csv', header = 0, delimiter = "\t", quoting = 3)
 print("Files loaded in : ",time.time()-file_load_start,"s.\n")
 
 #Loading punkt tokenizer

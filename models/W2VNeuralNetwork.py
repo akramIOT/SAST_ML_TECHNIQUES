@@ -43,10 +43,10 @@ Parameters to Test Models:
 
 # File paths to load:
 # Training Set:
-training_set_path = "/media/hduser/OS_Install/Mechanical Engineering/Sem V/Data Analytics/Project/FinalTrain.csv"
+training_set_path = "../FinalTrain.csv"
 
 # Testing Set:
-testing_set_path = "/media/hduser/OS_Install/Mechanical Engineering/Sem V/Data Analytics/Project/FinalTest.csv"
+testing_set_path = "../FinalTest.csv"
 
 # Toggle stemming: 1 -> Enable; 0 -> Disable
 stemming = 0

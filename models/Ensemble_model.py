@@ -20,7 +20,7 @@ from gensim.models import Word2Vec
 from gensim.models import word2vec
 from gensim.models.keyedvectors import KeyedVectors
 
-# NLP Tools
+# NLP Tools - can be modified in Future
 from nltk.tokenize import sent_tokenize, word_tokenize
 from nltk.tokenize import RegexpTokenizer
 from nltk.corpus import stopwords
@@ -58,10 +58,10 @@ Parameters to Test Models:
 
 # File paths to load:
 # Training Set:
-training_set_path = "../Data Analytics/Project/FinalTrain.csv"
+training_set_path = "../FinalTrain.csv"
 
 # Testing Set:
-testing_set_path = "../Data Analytics/Project/FinalTest.csv"
+testing_set_path = "../FinalTest.csv"
 
 # Toggle stemming: 1 -> Enable; 0 -> Disable
 stemming = 0
