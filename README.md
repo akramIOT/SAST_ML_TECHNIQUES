@@ -75,8 +75,9 @@ We will also be able to test the open-source fuzzers once we have data, so while
 
 Quoting the AI Security Research paper titled **ALETHEIA:** Improving the Usability of Static Security Analysis, the experimental analysis they have used is. “an extensive set of 3,758 security warnings output by a commercial JavaScript security checker when applied to 1,706 HTML pages taken from 675 top-popular Web sites. These Web sites include all Fortune 500 companies, the top 100 Websites”. 
 
-https://arxiv.org/pdf/2210.07465
-https://arxiv.org/pdf/2109.13916
+** https://arxiv.org/pdf/2210.07465
+
+** https://arxiv.org/pdf/2109.13916
 
 There is also a Plan to use  GENAI based Techniques with LLM  ReACT Agents based design pattern to do application Security Testing and analysis with SAST.
 Ref: https://arxiv.org/html/2401.17459v1
